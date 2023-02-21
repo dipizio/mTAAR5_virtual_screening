@@ -4,7 +4,7 @@
 
 
 ## 5-HTR models
-- 5-HT1A, 5-HT1E and 5-HT1F models in complex with mTAAR5 ligands (5-HTR_models.zip).<br/>
+- <p>5-HT<sub>1A</sub><p>, <p>5-HT<sub>1E</sub><p> and <p>5-HT<sub>1F</sub><p> models in complex with mTAAR5 ligands (5-HTR_models.zip).<br/>
 
 
 # Manuscript in preparations
