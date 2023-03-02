@@ -2,17 +2,17 @@
 
 ## Training Set: Inactive Molecules 
 <br/>
-The file INACTIVES_dataset_mTAAR5.csv contains Names, CANONINCAL_SMILES and additional ID of each inactive compound used in this work for Receiver-Operating Characteristic (ROC) Analysis.<br/>
+The file INACTIVES_dataset_mTAAR5.csv contains Names, CANONINCAL_SMILES and additional IDs of each inactive compound used in this work for Receiver-Operating Characteristic (ROC) Analysis.<br/>
 <br/>
 
 ## Training Set: Active Molecules 
 <br/>
-The file ACTIVES_dataset_mTAAR5.csv contains Names, CANONINCAL_SMILES and additional ID of each active compound used in this work for the induce fit docking simulations (IFD), and Receiver-Operating Characteristic (ROC) Analysis.<br/>
+The file ACTIVES_dataset_mTAAR5.csv contains Names, CANONINCAL_SMILES and additional IDs of each active compound used in this work for the induce fit docking simulations (IFD), and Receiver-Operating Characteristic (ROC) Analysis.<br/>
 <br/>
 
-## Training Set: Active Molecules 
+## Virtual Screening SPECS selected Compounds  
 <br/>
-The file SPECS_selected_molecules.csv contains Names, CANONINCAL_SMILES and additional ID of each selected acompunds with virtual screening.<br/>
+The file SPECS_selected_molecules.csv contains Names, SMILES and additional IDs of each selected a compound with virtual screening.<br/>
 <br/>
 
 
