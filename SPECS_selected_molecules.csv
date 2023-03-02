@@ -1,0 +1,30 @@
+index,SMILE,Compound_Name,SPECS_ID
+9,Fc1c(F)c(F)c(F)c(c12)scc2C[N@H+](CC)CCO,"""2-{ethyl[(4,5,6,7-tetrafluoro-1-benzothien-3-yl)methyl]amino}ethanol""",AA-516/31408053
+10,C1C[NH+](C)CCN1Nc2[n+](-c3ccccc3)c(cs2)-c4ccc(Cl)cc4,"""N-(4-(4-chlorophenyl)-3-phenyl-1,3-thiazol-2(3H)-ylidene)-N-(4-methyl-1-piperazinyl)amine""",AF-399/41085043
+11,c1ccccc1C(c2ccccc2)O[C@@H](C)CC[NH+](CC)CC,"""3-(benzhydryloxy)-N,N-diethylbutan-1-amine""",AG-690/08755015
+12,c1cccc(c12)cccc2C(=O)NCCC[NH+]3CCOCC3,"""N-[3-(4-morpholinyl)propyl]-1-naphthamide""",AK-968/12115029
+13,c1cc(Cl)cc(c12)[nH+]ccc2N3CC[NH+](CC3)CCCO,"""3-[4-(7-chloro-4-quinolinyl)-1-piperazinyl]-1-propanol""",AN-740/37278024
+14,C1CCC[NH+]1CCO[C@H](c2ccc(Br)cc2)c3ccc(F)cc3,"""1-{2-[(4-bromophenyl)(4-fluorophenyl)methoxy]ethyl}pyrrolidine""",AE-641/30153046
+15,c1cc(Cl)ccc1C(=O)c2ccc(cc2)C[NH+](C)C,"""(4-chlorophenyl){4-[(dimethylamino)methyl]phenyl}methanone""",AE-641/00584062
+16,c1cc(F)ccc1C(OCC[NH+](C)C)c2ccc(F)cc2,"""2-[bis(4-fluorophenyl)methoxy]-N,N-dimethylethanamine""",AE-641/30153045
+17,c1c(C)ccc(c12)n(C)c([nH+]2)CN3CC[NH+](CC3)CCO,"""2-{4-[(1,5-dimethyl-1H-benzimidazol-2-yl)methyl]-1-piperazinyl}ethanol""",AT-057/43469073
+18,c1cc(Br)ccc1C(=C2CC[N@@H+](C)CC2)c3ccccc3,"""4-[(4-bromophenyl)(phenyl)methylene]-1-methylpiperidine""",AE-641/11702964
+19,OCC[NH+](CC1)CCN1c2cc(=O)oc(c23)cccc3,"""4-[4-(2-hydroxyethyl)-1-piperazinyl]-2H-chromen-2-one""",AI-204/31681037
+20,OCC[N@H+](C)Cc1csc(c12)ccc(Br)c2,"""2-[[(5-bromo-1-benzothien-3-yl)methyl](methyl)amino]ethanol""",AA-516/30012006
+21,c1ccc(F)cc1C[NH+]2CCN(CC2)Cc3cc(F)ccc3,"""1,4-bis(3-fluorobenzyl)piperazine""",AK-968/13146376
+22,c1cccc(c12)cccc2C(=O)CC[N@@H+]3C[C@@H](CC3)c4ccccc4,"""1-(1-naphthyl)-3-(3-phenyl-1-pyrrolidinyl)-1-propanone""",AO-365/15162001
+23,c1c(Cl)ccc(Cl)c1C(=O)NCCC[NH+]2CCOCC2,"""2,5-dichloro-N-[3-(4-morpholinyl)propyl]benzamide""",AK-968/11844162
+24,c1ccccc1C(c2ccccc2)C(=O)N3CC[NH+](CC3)Cc4ccc(cc4)OC,"""4-{[4-(diphenylacetyl)-1-piperazinyl]methyl}phenyl methyl ether""",AG-690/40720074
+25,c1ccccc1C(c2ccccc2)C(=O)N3CC[NH+](CC3)Cc(c4)ccc(c45)OCO5,"""1-(1,3-benzodioxol-5-ylmethyl)-4-(diphenylacetyl)piperazine""",AS-871/11777022
+26,c1cccc(F)c1[C@H](OCC[NH+](C)C)c2ccc(F)cc2,"""N-{2-[(2-fluorophenyl)(4-fluorophenyl)methoxy]ethyl}-N,N-dimethylamine""",AM-814/41094406
+27,c1ccccc1-c(c[nH]2)[nH+]c2SC(c3ccccc3)c4ccccc4,"""2-(benzhydrylsulfanyl)-4-phenyl-1H-imidazole""",AG-205/36566049
+28,c1ccccc1C(O)(CC[NH+](C)C)c2ccccc2,"""3-(dimethylamino)-1,1-diphenyl-1-propanol""",AG-690/11629181
+29,c1ccccc1C(c2ccccc2)=CC[NH+]3CCCCC3,"""1-(3,3-diphenyl-2-propenyl)piperidine""",AG-680/20240028
+30,C1C[NH+](C)CCN1NC(=O)c2cccc(c23)cccc3,"""N-(4-methyl-1-piperazinyl)-1-naphthamide""",AK-968/12265016
+31,C1C[NH+](C)CCN1c2cc(C)[nH+]c(c23)cccc3,"""2-methyl-4-(4-methyl-1-piperazinyl)quinoline""",AA-516/12432063
+32,C[NH+](C)Cc(c1O)c(C)nc(c12)ccc(c2)C,"""3-[(dimethylamino)methyl]-2,6-dimethyl-4-quinolinol""",AE-641/40777758
+33,C1C[NH+](C)CCN1Cc2cc(=O)oc(c23)ccc(c3)C,"""6-methyl-4-[(4-methyl-1-piperazinyl)methyl]-2H-chromen-2-one""",AO-022/43453354
+34,c1ccc(F)cc1C(=O)OCC[NH+]2CCCCC2,"""2-(1-piperidinyl)ethyl 3-fluorobenzoate""",AG-690/11959690
+35,c1ccc(Cl)cc1C(=O)OCC[NH+]2CCCCC2,"""2-(1-piperidinyl)ethyl 3-chlorobenzoate""",AE-641/04595048
+36,C1CCC[NH+]1Cc(c2O)c(C)nc(c23)ccc(c3)C,"""2,6-dimethyl-3-(1-pyrrolidinylmethyl)-4-quinolinol""",AE-641/14824009
+37,C1C[NH+](C)CCN1c(n2)c(C)c(Cl)c(c23)ccc(n3)C,"""4-chloro-3,7-dimethyl-2-(4-methyl-1-piperazinyl)[1,8]naphthyridine""",AO-476/43250130
