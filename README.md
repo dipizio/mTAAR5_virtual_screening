@@ -17,7 +17,7 @@ The file SPECS_selected_molecules.csv contains Names, SMILES and additional IDs 
 
 
 ## 5-HTR models
-- <p>5-HT<sub>1A</sub>, 5-HT<sub>1E</sub> and 5-HT<sub>1F</sub> models in complex with mTAAR5 ligands (5-HTR_models.zip).<p><br/>
+- <p>5-HT<sub>1A</sub>, 5-HT<sub>1E</sub>, 5-HT<sub>1F</sub> and 5-HT4 models in complex with mTAAR5 ligands (5-HTR_models.zip).<p><br/>
 
 
 ### Nicoli, Weber et al. Manuscript in preparations
