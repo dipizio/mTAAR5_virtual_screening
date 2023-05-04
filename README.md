@@ -21,7 +21,7 @@ The file SPECS_selected_molecules.csv contains Names, SMILES and additional IDs 
 
 ## mTAAR5 models
  
-Known mTAAR5 ligands in complex with mTAAR5 model A  and model B.  
+Known mTAAR5 ligands in complex with mTAAR5 model A  and model B.  <br/>
 
  
 ## Reference
