@@ -26,4 +26,4 @@ Known mTAAR5 ligands in complex with mTAAR5 model A  and model B.
  
 ## Reference
  
-### Nicoli, Weber et al. Manuscript in preparations
+Nicoli, Weber et al. Manuscript in preparations
