@@ -24,3 +24,11 @@ The file SPECS_selected_molecules.csv contains Names, SMILES and additional IDs 
 Known mTAAR5 ligands in complex with mTAAR5 model A  and model B.  
 <br/>
 
+## Molecular Dynamics
+The MD trajectories and input files are deposited at<br/>
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8143895.svg)](https://doi.org/10.5281/zenodo.8143895)
+<br/>
+
+## Reference
+Nicoli A., Weber V. et. al Structure-Based Discovery of Mouse Trace Amine-Associated Receptor 5 Antagonists. JCIM (Under Revision) <br/>
+<br/>
