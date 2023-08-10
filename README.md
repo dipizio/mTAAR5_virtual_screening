@@ -34,8 +34,8 @@ Nicoli A., Weber V. et. al Structure-Based Discovery of Mouse Trace Amine-Associ
 <br/>
 
 
-### E.g. IDF Simulation with compound 
-
+### E.g. IDF Simulation with compound 4 
+(Click on the image to see the video)
 </br>
 <div align="center">
       <a href="https://www.youtube.com/watch?v=8BNHpnvblu4">
