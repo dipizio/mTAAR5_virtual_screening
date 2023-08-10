@@ -39,3 +39,14 @@ Nicoli A., Weber V. et. al Structure-Based Discovery of Mouse Trace Amine-Associ
 </br>
 [!(http://img.youtube.com/vi/<8BNHpnvblu4>/4.jpg)](https://www.youtube.com/watch?v=8BNHpnvblu4)
 </br>
+
+
+<div align="center">
+      <a href="https://www.youtube.com/watch?v=8BNHpnvblu4"
+     <img 
+      src="https://img.youtube.com/vi/8BNHpnvblu4/maxresdefault.jpg" 
+      alt="" 
+      style="width:100%;">
+      </a>
+    </div>
+</br>
