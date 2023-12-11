@@ -30,7 +30,7 @@ The MD trajectories and input files are deposited at<br/>
 <br/>
 
 ## Reference
-Nicoli A., Weber V. et. al. Structure-Based Discovery of Mouse Trace Amine-Associated Receptor 5 Antagonists.
+Nicoli A., Weber V. et. al. Structure-Based Discovery of Mouse Trace Amine-Associated Receptor 5 Antagonists. <br/>
 J. Chem. Inf. Model. 2023, 63, 21, 6667–6680 <br/>
 Article available at https://doi.org/10.1021/acs.jcim.3c00755
 <br/>
